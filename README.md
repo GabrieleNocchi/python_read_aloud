@@ -2,7 +2,7 @@
 
 Just a python script to read word documents or pdf out loud, skipping the content of parenthesis and square brackets (references).
 
-Just something I like to use on the drafts of my manuscripts after I am tired reading them again, but can also take pdfs so it can also be used to read scientific papers aloud.
+Just something I like to use on the drafts of my manuscripts after I am tired of reading them again, but can also take pdfs so it can also be used to read aloud scientific papers.
 Word does the same thing, but I could not easily skip the parenthesis (which I want to skip, as most of them are references), so I have asked chatGPT for a quick solution.
 
 <b>Options: </b>
