@@ -22,4 +22,13 @@ or
 
 <pre>python read.py your_file.docx --voice female --rate 400 --start 10</pre>
 
+
+Libraries:
+
+<pre>import pyttsx3
+import docx
+import re
+import argparse
+import PyPDF2</pre>
+
   
