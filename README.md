@@ -15,11 +15,11 @@ Word does the same thing, but I could not easily skip the parenthesis (which I w
 
 
 <b>Usage:</b>
-<pre>python read.py your.pdf --voice male --rate 200 --start 2</pre>
+<pre>python read.py your_file.pdf --voice male --rate 200 --start 2</pre>
 
 or
 
 
-<pre>python read.py your.docx --voice female --rate 400 --start 10</pre>
+<pre>python read.py your_file.docx --voice female --rate 400 --start 10</pre>
 
   
